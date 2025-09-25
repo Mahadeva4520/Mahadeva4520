@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Mahadeva4520  
 
-<!--
-**Mahadeva4520/Mahadeva4520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I’m passionate about coding, problem solving, and building real-world projects with Python.  
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+- 🔭 Currently working on: **Python projects**  
+- 🌱 Learning: **Advanced Python, Web Scraping, and Automation**  
+- 👯 Open to collaborate on: **Beginner-friendly open-source projects**  
+- 💬 Ask me about: **Python, Git, GitHub, and project structuring**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages**: Python, C  
+- **Tools**: Git, GitHub, VS Code  
+- **Domains of Interest**: Web scraping, APIs, Automation  
+
+## 📌 Featured Projects  
+- [NewsScraper](https://github.com/Mahadeva4520/NewsScraper) → Real-time news headlines scraper (BBC, CNN, NDTV).  
+- [Todo List Manager](https://github.com/Mahadeva4520/todo-list-manager) → Console app for managing tasks.  
+- [Calculator CLI](https://github.com/Mahadeva4520/calculator-cli) → Command-line calculator project.  
+
+## 📫 Connect with Me  
+- GitHub: [Mahadeva4520](https://github.com/Mahadeva4520)  
