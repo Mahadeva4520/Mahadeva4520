@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mahadeva4520  
+# 👋 Hi, I’m Mahadeva Prasad N  
 
 Welcome to my GitHub profile! 🚀  
 I’m passionate about coding, problem solving, and building real-world projects with Python.  
